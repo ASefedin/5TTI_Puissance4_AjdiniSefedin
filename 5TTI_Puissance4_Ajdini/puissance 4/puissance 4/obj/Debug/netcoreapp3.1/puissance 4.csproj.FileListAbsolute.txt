@@ -1,0 +1,55 @@
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csprojAssemblyReference.cache
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfoInputs.cache
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfo.cs
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.CoreCompileInputs.cache
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.exe
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.deps.json
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.json
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.dev.json
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.dll
+H:\puissance 4\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.pdb
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.dll
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.pdb
+H:\puissance 4\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.genruntimeconfig.cache
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.exe
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.deps.json
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.json
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.dev.json
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.dll
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.pdb
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.AssemblyReference.cache
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfoInputs.cache
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfo.cs
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.CoreCompileInputs.cache
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.dll
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.pdb
+H:\5TTI_puissance4_ajdiniSefedin\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.genruntimeconfig.cache
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.exe
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.deps.json
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.json
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.dev.json
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.dll
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.pdb
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.AssemblyReference.cache
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfoInputs.cache
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfo.cs
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.CoreCompileInputs.cache
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.dll
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.pdb
+H:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.genruntimeconfig.cache
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.exe
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.deps.json
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.json
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.runtimeconfig.dev.json
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.dll
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\bin\Debug\netcoreapp3.1\puissance 4.pdb
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.AssemblyReference.cache
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfoInputs.cache
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.AssemblyInfo.cs
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.csproj.CoreCompileInputs.cache
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.dll
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.pdb
+C:\5TTI_Puissance4_Ajdini\puissance 4\puissance 4\obj\Debug\netcoreapp3.1\puissance 4.genruntimeconfig.cache
